@@ -7,7 +7,13 @@
 //alert(output1)
 
 //Question two
-
+//function myfun()
+        {
+            //var Groom_Name = document.getElementById('gname').value;
+            //var Bride_Name = document.getElementById('bname').value;
+            //var result = Math.floor(Math.random() * 100);
+            //document.getElementById('result').innerHTML = Math.floor(Math.random() * 100);
+        }
 var Husband = prompt("Please Enter your Real Name");
 var Wife = prompt("Please Enter your Spouse Name")
 var compatible = Math.floor(Math.random() * 100);
